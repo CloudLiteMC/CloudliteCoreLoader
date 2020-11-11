@@ -36,5 +36,8 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-commons:8.0.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-tree:8.0.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.ow2.asm:asm-analysis:8.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver:3.4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:3.4.3" level="project" />
   </component>
 </module>

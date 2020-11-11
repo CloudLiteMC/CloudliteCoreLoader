@@ -123,6 +123,7 @@ public final class AddonLoader {
         addon.setAddonName(addonName);
         addon.setVersion(version);
         addon.setMaterial(mat);
+        addon.setAddonJarFile(jarFile);
         return addon;
     }
 }

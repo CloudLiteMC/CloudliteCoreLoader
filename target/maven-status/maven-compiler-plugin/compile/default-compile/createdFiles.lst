@@ -3,8 +3,10 @@ net\cloudlite\core\utils\exceptions\AddonAlreadyLoadedException.class
 net\cloudlite\core\api\Logger.class
 net\cloudlite\core\api\StringUtils.class
 net\cloudlite\core\utils\exceptions\InvalidAddonException.class
+net\cloudlite\core\api\FileSystem.class
 net\cloudlite\core\utils\addon\AddonLoader.class
 net\cloudlite\core\utils\exceptions\MaterialNotFoundException.class
+net\cloudlite\core\api\addon\AddonModule.class
 net\cloudlite\core\Core$1.class
 net\cloudlite\core\utils\addon\AddonManager.class
 net\cloudlite\core\api\addon\Addon.class

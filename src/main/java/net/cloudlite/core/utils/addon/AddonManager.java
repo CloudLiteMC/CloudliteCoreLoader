@@ -35,6 +35,6 @@ public final class AddonManager {
         if (this.addons.get(addonNameKey) != null) throw new AddonAlreadyLoadedException("Addon has already been initilized! (Do 2 of the same addon exist in /addons ?)");
 
         this.addons.putIfAbsent(addonNameKey, addon);
-        this.core.getLog().log("&b " + addon.getAddonName() + "&c v&e" + addon.getVersion() + "&7 Has been initialized!");
+        this.core.getLog().log("&b " + addon.getAddonName() + "&c v&e" + addon.getVersion() + "&b Has been initialized!");
     }
 }
