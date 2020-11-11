@@ -1,0 +1,6 @@
+name: CloudLiteNewPrisonCore
+version: 1.0
+main: net.cloudlite.core.Core
+api-version: 1.13
+authors: [DaltonBurchard]
+description: CLoudLite Core Loader
